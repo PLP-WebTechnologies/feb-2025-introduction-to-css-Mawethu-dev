@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=dvice-width, initial-scale=1.0">
+        <title>logon box</title>
+        <link rel="stylesheet" href="style.css"/>    
+    </head>
+<body>
+<div class="square"
+<div class="circle">circle</div>
+<div class="rectangle">rec</div>
+</body>
+<sytle>
+
+.square {
+  width: 100px;
+  height: 100px;
+  border 2px solid red;
+  color: blue;
+  margin-left: 200px;
+  padding: 10px
+}
+.circle{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  color: blue;
+  padding: 10px;
+  margin-left: 300px;
+
+  .rectangle{
+    width: 200px;
+    height: 80px;
+    border: 2px solid red;
+    color: blue;
+    padding: 10px
+</style>
